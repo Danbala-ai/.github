@@ -1,4 +1,4 @@
-**Company Presentation: Danbala.AI**
+** Danbala.AI**
 
 *Unlocking the Power of AI for a Better Tomorrow*
 
