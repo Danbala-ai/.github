@@ -2,7 +2,7 @@
 
 *Unlocking the Power of AI for a Better Tomorrow*
 
-![Danbala.AI Logo](danbala-icon-bg-white.svg)
+![Danbala.AI Logo](..danbala-icon-bg-white.svg)
 
 ## **Introduction:**
 
