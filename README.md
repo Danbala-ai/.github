@@ -1,18 +1,18 @@
-**Company Presentation: Danbala.AI**
+# **Danbala.AI**
 
 *Unlocking the Power of AI for a Better Tomorrow*
 
-![Danbala.AI Logo](insert_logo_image_url_here)
+![Danbala.AI Logo](danbala-icon-bg-white.svg)
 
-**Introduction:**
+## **Introduction:**
 
 At Danbala.AI, we believe in harnessing the boundless potential of Artificial Intelligence to propel development, elevate enterprise productivity, and enhance the quality of people's lives. Our company name, "Danbala," is inspired by the Voodoo Lwa Danbala, who embodies the essence of knowledge and wisdom. Just as this divine entity represents enlightenment, we are dedicated to illuminating the path towards a future where AI transforms industries and empowers individuals.
 
-**Our Mission:**
+## **Our Mission:**
 
 *Empowering through AI:* Our mission is to empower businesses and individuals with cutting-edge AI solutions that transcend boundaries and foster progress. We envision a world where AI is a catalyst for positive change, leading to more efficient operations, innovative breakthroughs, and an improved quality of life for all.
 
-**Core Values:**
+## **Core Values:**
 
 1. **Innovation:** We are at the forefront of AI technology, constantly pushing the boundaries of what is possible. We believe that by pushing innovation, we can pave the way for novel solutions that drive progress.
 
@@ -22,7 +22,7 @@ At Danbala.AI, we believe in harnessing the boundless potential of Artificial In
 
 4. **Customer-Centric:** We place our clients at the center of our focus. We go the extra mile to ensure that our AI solutions deliver tangible value, enhancing enterprise productivity and improving lives.
 
-**Our Services:**
+## **Our Services:**
 
 1. **AI Development:** Our team of AI experts is dedicated to developing custom AI solutions tailored to your specific requirements. From predictive analytics to natural language processing, we cover the full spectrum of AI technologies.
 
@@ -30,7 +30,7 @@ At Danbala.AI, we believe in harnessing the boundless potential of Artificial In
 
 3. **AI for Good:** We believe in leveraging AI for the betterment of society. Our AI for Good initiatives focus on using artificial intelligence to address pressing global challenges, from healthcare advancements to environmental conservation.
 
-**Why Choose Danbala.AI:**
+## **Why Choose Danbala.AI:**
 
 1. **Expertise:** We have a team of skilled AI professionals with a deep understanding of AI technologies, ensuring you get the best solutions.
 
@@ -40,7 +40,7 @@ At Danbala.AI, we believe in harnessing the boundless potential of Artificial In
 
 4. **Results-Driven:** We measure our success by the tangible benefits our AI solutions provide. Your success is our success.
 
-**Join Us in Shaping the Future:**
+## **Join Us in Shaping the Future:**
 
 Danbala.AI invites you to embark on a transformative journey with us. Together, we can harness the infinite possibilities of AI to drive development, boost enterprise productivity, and enrich the lives of people around the world.
 
